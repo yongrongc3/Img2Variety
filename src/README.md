@@ -1,5 +1,5 @@
-# Iamge2ID
-Image2ID: Image-Based Intraspecific Varieties Identification Using Spatiotemporal Mixed Augmentation and Transfer Learning
+# Img2Variety
+Img2Variety: Image-Based Intraspecific Varieties Identification Using Spatiotemporal Mixed Augmentation and Transfer Learning
 
 ## Features
 - Feature 1: spatiotemporal mixed augmentation (StMA)
